@@ -1,0 +1,26 @@
+Extra Features
+
+1) Spacebar Reset: Pressing spacebar will reset the graph in case nodes
+                   leave the screen or you simply want to find new node
+                   positions.
+
+2) j/k framerate: Pressing j will lower the framerate (k will raise) which
+                  can be used to model a change in the rate of time,
+                  allowing user to see visual fx and data at different
+                  speeds.
+
+3) Smoke Trail: Each node will leave behind a trail when being dragged by
+                the mouse. This trail helps illustrate to the user which
+                node they are currently interacting directly with.
+
+4) System Info: In the top left corner of the screen, we display some of
+                the relevant system info like fps, total kinetic energy,
+                and whether or not the system is currently 'updating' the
+                positions of the nodes or whether the total remaining
+                energy is less than the threshold required for update.
+
+5) NEBULA: Have you ever looked up towards the sky and questioned your
+           place in the universe? We are but grains of sand in the vastness
+           of our universe. Press 's' to delve deeper into the final
+           frontier. Once there, press 'r' to control space like only the
+           Gods themselves were meant to do.
