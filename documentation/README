@@ -1,0 +1,24 @@
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+\                                                  /
+/               Force Directed Graph               \
+\                                                  /
+/   Written by Dorian Pistilli && Jacob Mingolla   \
+\                                                  /
+/             Last Edit on 10/27/2015              \
+\                                                  /
+ \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+
+
+This graph was built in processing to follow the Comp150-Visualization
+assignment spec for Assignment3. For details on individual roles and extra
+features implemented outside of what's required in the spec, read the other
+files (team.txt && extracredit.txt).
+
+Known Bugs:
+
+ToDo:
+    - Alter the push/pop matrix functionality so that the dragging and
+      hovering of nodes correctly functions when in nebula mode.
+    - Clean up the code to make it way more simmple && easy to read.
+    - Add globals to their own tab
